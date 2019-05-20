@@ -159,7 +159,7 @@ table{
     height:130px;
 
 }
-.row2 td {
+#modal_window .row2 td {
   float: left;
     width:135px;
     height:200px;

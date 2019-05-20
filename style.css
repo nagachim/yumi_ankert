@@ -1,0 +1,168 @@
+html{
+	background-image: url("img/haikei.jpg");
+	margin: 0 auto;
+	margin-top: 0 auto;
+	width: 560px;
+	height: auto;
+	text-align:center;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background:#87cefa;
+	margin-top: 50px;
+}
+
+/*
+h1{
+	margin: 30px 20px;
+	font-size: 28px;
+	border-left: 15px solid #8a2be2;
+	border-bottom: 3px solid #8a2be2;
+	padding: 10px;
+	width: 530px;
+	text-align:center;
+	color: blue;
+}
+*/
+h1{
+  position:relative;
+  margin:30px -1px;
+  font:bold 30px/1.6 Arial, Helvetica, sans-serif;
+  text-align:center;
+  color:#333;
+  background:#dda0dd;
+  -webkit-transform: rotate(-3deg) skew(-3deg);
+  -moz-transform: rotate(-3deg) skew(-3deg);
+  -o-transform: rotate(-3deg) skew(-3deg);
+  -ms-transform: rotate(-3deg) skew(-3deg);
+  transform: rotate(-3deg) skew(-3deg);
+  text-shadow:1px 1px 0 rgba(255,255,255,1);
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2),
+              30px 0 0 0 #c4a3bf,
+              -30px 0 0 0 #c4a3bf;
+}
+
+
+
+h2{
+	text-align:left;
+	font-size:18px;
+	font-family: meiryo;
+}
+
+.center{
+	text-align:center;
+	margin: 0 auto;
+}
+.txt{
+	display: inline-block;
+	text-align:left;
+	font-size:15px;
+}
+
+.login fieldset{
+	text-align:center;
+	margin: 0 auto;
+	border: 3px solid #000000;
+	background:#e6e6fa;
+	font-size:20px;
+	width:520px;
+}
+.login legend{
+	text-align:left;
+	font-size:24px;
+}
+
+.login input[type=text]{
+	width:410px;
+	height:30px;
+	font-size:20px;
+}
+
+.login input[type=submit]{
+	width:150px;
+	height:35px;
+	font-size:20px;
+	
+}
+
+
+section{
+	border: 1px solid #cccccc;
+}
+
+input[type=radio] {
+
+    transform: scale(1.5);
+}
+
+input[type=submit]{
+	width:200px;
+	height:40px;
+	font-size:22px;
+}
+
+input[type=button]{
+	width:width:200px;
+	height:50px;
+	font-size:24px;
+}
+
+p{
+	text-align:left;
+	font-size:20px;
+}
+
+table{
+	left:10px;
+}
+
+#layer_min{
+  display: none;
+  position: fixed ;
+  top: 0;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  background: black;
+  opacity: 0.60;
+  filter: alpha(opacity=60);
+} 
+#layer_max{
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 99;
+  transform: translate(-50%, -50%);
+  padding: 32px;
+  border-radius: 8px;
+  background-color: #fff;
+} 
+#layer_max img.close{
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  cursor: pointer;
+}
+#modal_window tr{
+  width: 560px;
+  list-style-type: none;
+}
+#modal_window tr td{
+  float: left;
+    width:265px;
+
+}
+#modal_window tr td img{
+  border: 0;
+  margin: 5px;
+}
+
+.exit p{
+	text-align:center;
+	font-size:34px;
+}

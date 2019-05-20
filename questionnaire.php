@@ -72,7 +72,7 @@ $(function(){
 		<p><?php echo htmlspecialchars($_SESSION['NAME'], ENT_QUOTES); ?> で参加中</p>
 		<h1>あなたの若月ベストショットアンケート</h1>
 		<div class="center">
-			<p class="txt">ながちむが独断で選出した若月画像！<br>あなたが好きな若月を１つ選択してください。<br>※画像を選択で拡大されます<p/>
+			<p class="txt">ながちむが独断で選出した若月画像！<br>あなたが可愛いと思う画像を１つ選択してください。<br>※画像を選択で拡大されます<p/>
 		</div>
 		<div id="modal_window">
 		<form id="ankertForm" name="ankertForm" action="" method="POST" accept-charset="UTF-8">

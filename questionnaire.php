@@ -122,6 +122,50 @@ $(function(){
 						<input type="radio" name="waka" value="waka8"><label>最後の制服</label>
 					</td>
 				</tr>
+				<tr class = "row3">
+					<td>
+						<a href="img/waka9.jpg" class="modal"><img src="img/waka9_thum.jpg" title="若９"></a>
+						<br>
+						<input type="radio" name="waka" value="waka9"><label>クール若</label>
+					</td>
+					<td>
+						<a href="img/waka10.jpg" class="modal"><img src="img/waka10_thum.jpg" title="若１０"></a>
+						<br>
+						<input type="radio" name="waka" value="waka10"><label>宣材写真1</label>
+					</td>
+					<td>
+						<a href="img/waka11.jpg" class="modal"><img src="img/waka11_thum.jpg" title="若１１"></a>
+						<br>
+						<input type="radio" name="waka" value="waka11"><label>箸くん箸くん</label>
+					</td>
+					<td>
+						<a href="img/waka12.jpg" class="modal"><img src="img/waka12_thum.jpg" title="若１２"></a>
+						<br>
+						<input type="radio" name="waka" value="waka12"><label>佑美ニャン</label>
+					</td>
+				</tr>
+				<tr class = "row4">
+					<td>
+						<a href="img/waka13.jpg" class="modal"><img src="img/waka13_thum.jpg" title="若１３"></a>
+						<br>
+						<input type="radio" name="waka" value="waka13"><label>軍団長</label>
+					</td>
+					<td>
+						<a href="img/waka14.jpg" class="modal"><img src="img/waka14_thum.jpg" title="若１４"></a>
+						<br>
+						<input type="radio" name="waka" value="waka14"><label>キュンとくる</label>
+					</td>
+					<td>
+						<a href="img/waka15.jpg" class="modal"><img src="img/waka15_thum.jpg" title="若１５"></a>
+						<br>
+						<input type="radio" name="waka" value="waka15"><label>美アップ</label>
+					</td>
+					<td>
+						<a href="img/waka16.jpg" class="modal"><img src="img/waka16_thum.jpg" title="若１６"></a>
+						<br>
+						<input type="radio" name="waka" value="waka16"><label>最高の一枚</label>
+					</td>
+				</tr>
 				</table>
 			</section>
 			<br>

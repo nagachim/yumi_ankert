@@ -158,6 +158,12 @@ table{
     height:130px;
 
 }
+#modal_window tr td2{
+  float: left;
+    width:135px;
+    height:150px;
+
+}
 #modal_window tr td img{
   border: 0;
   margin: 5px;

@@ -99,26 +99,26 @@ $(function(){
 						<br>
 						<input type="radio" name="waka" value="waka4"><label>鎖骨美人</label>
 					</td>
-					<td>
+					<td2>
 						<a href="img/waka5.jpg" class="modal"><img src="img/waka5_thum.jpg" title="若５"></a>
 						<br>
 						<input type="radio" name="waka" value="waka5"><label>サヨナラの意味</label>
-					</td>
-					<td>
+					</td2>
+					<td2>
 						<a href="img/waka6.jpg" class="modal"><img src="img/waka6_thum.jpg" title="若６"></a>
 						<br>
 						<input type="radio" name="waka" value="waka6"><label>ムギュ</label>
-					</td>
-					<td>
+					</td2>
+					<td2>
 						<a href="img/waka7.jpg" class="modal"><img src="img/waka7_thum.jpg" title="若７"></a>
 						<br>
 						<input type="radio" name="waka" value="waka7"><label>パレット</label>
-					</td>
-					<td>
+					</td2>
+					<td2>
 						<a href="img/waka8.jpg" class="modal"><img src="img/waka8_thum.jpg" title="若８"></a>
 						<br>
 						<input type="radio" name="waka" value="waka8"><label>最後の制服</label>
-					</td>
+					</td2>
 				</tr>
 				</table>
 			</section>

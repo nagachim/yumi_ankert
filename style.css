@@ -176,6 +176,12 @@ table{
     height:170px;
 
 }
+#modal_window .row5 td {
+  float: left;
+    width:540px;
+    height:200px;
+
+}
 #modal_window tr td img{
   border: 0;
   margin: 5px;

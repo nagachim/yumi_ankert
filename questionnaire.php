@@ -166,6 +166,13 @@ $(function(){
 						<input type="radio" name="waka" value="waka16"><label>最高の一枚</label>
 					</td>
 				</tr>
+				<tr class = "row5">
+					<td>
+						<a href="img/waka17.jpg" class="modal"><img src="img/waka17_thum.jpg" title="若１７"></a>
+						<br>
+						<input type="radio" name="waka" value="waka17"><label>れかつき</label>
+					</td>
+				</tr>
 				</table>
 			</section>
 			<br>

@@ -153,7 +153,7 @@ $(function(){
 					<td>
 						<a href="img/waka14.jpg" class="modal"><img src="img/waka14_thum.jpg" title="若１４"></a>
 						<br>
-						<input type="radio" name="waka" value="waka14"><label>キュンとくる</label>
+						<input type="radio" name="waka" value="waka14"><label>可愛い彼女感</label>
 					</td>
 					<td>
 						<a href="img/waka15.jpg" class="modal"><img src="img/waka15_thum.jpg" title="若１５"></a>

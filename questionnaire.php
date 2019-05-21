@@ -119,7 +119,7 @@ $(function(){
 					<td>
 						<a href="img/waka8.jpg" class="modal"><img src="img/waka8_thum.jpg" title="若８"></a>
 						<br>
-						<input type="radio" name="waka" value="waka8"><label>最後の制服</label>
+						<input type="radio" name="waka" value="waka8"><label>ジコチュー制服</label>
 					</td>
 				</tr>
 				<tr class = "row3">
